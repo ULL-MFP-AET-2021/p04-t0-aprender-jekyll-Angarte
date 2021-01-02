@@ -1,0 +1,16 @@
+I"|<h1 id="tema-1-la-electricidad">Tema 1: LA ELECTRICIDAD</h1>
+
+<p>Principios de electricidad. Corriente continua y corriente alterna</p>
+
+<p>You can also put large formulas in their own paragraph.</p>
+
+\[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]
+
+\[mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}\]
+
+<nav>
+  <a href="/">Blog</a>
+</nav>
+
+<p><br /></p>
+:ET

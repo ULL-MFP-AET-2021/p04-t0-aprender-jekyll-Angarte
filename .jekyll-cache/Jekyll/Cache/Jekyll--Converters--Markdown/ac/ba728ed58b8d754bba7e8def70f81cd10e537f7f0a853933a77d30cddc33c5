@@ -1,0 +1,33 @@
+I"�<h1 id="tema-1-la-electricidad">Tema 1: LA ELECTRICIDAD</h1>
+
+<p>Principios de electricidad. Corriente continua y corriente alterna</p>
+
+<ul>
+  <li>Ley de Ohm en corriente continua</li>
+</ul>
+
+\[V = I · R\]
+
+<ul>
+  <li>Ley de Ohm en corriente alterna</li>
+</ul>
+
+\[V = I · Z\]
+
+<ul>
+  <li>
+    <p>Donde \(Z = \sqrt{(R^2 + X^2)}\)</p>
+  </li>
+  <li>
+    <p>Función senoidal</p>
+  </li>
+</ul>
+
+\[f(x) = A · sen(wt + \xi)\]
+
+<nav>
+  <a href="/">Blog</a>
+</nav>
+
+<p><br /></p>
+:ET
