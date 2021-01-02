@@ -48,7 +48,7 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 # baseurl: "/p03-t0-aprender-ide-Angarte"
-baseurl: ""
+baseurl:"p04-t0-aprender-jekyll-Angarte/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
